@@ -2,7 +2,11 @@
 
 ---
 
-### Courses Created 
+### Books
+
+- [Docker for Data Science (Apress/Springer, 2017)](https://www.apress.com/gp/book/9781484230114)
+
+### Courses
 
 #### Databricks Academy
 
@@ -23,3 +27,4 @@
 - [Com Sci X 450.2 - Exploratory Data Analysis and Visualization](https://www.uclaextension.edu/digital-technology/data-analytics-management/course/exploratory-data-analysis-and-visualization-com)
 - [Com Sci X 450.3 - Big Data Management](https://www.uclaextension.edu/digital-technology/data-analytics-management/course/big-data-management-com-sci-x-4503)
 - [Com Sci X 450.4 - Machine Learning](https://www.uclaextension.edu/digital-technology/data-analytics-management/course/machine-learning-com-sci-x-4504)
+
