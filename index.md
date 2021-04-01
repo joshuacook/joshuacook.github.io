@@ -2,34 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Courses Created 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### Databricks Academy
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+- [Data Engineering with Databricks](https://academy.databricks.com/instructor-led-training/data-engineering)
+- [Data Science on Databricks Rapidstart](https://academy.databricks.com/elearning/INT-DSRS-v1-SP)
+- [Data Science on Databricks: The Bias-Variance Tradeoff](https://academy.databricks.com/elearning/INT-FDSM-v1-SP)
+- [Databricks with R](https://academy.databricks.com/elearning/INT-DBWR-v1-SP)
+- [Delta Lake Rapid Start with Python](https://academy.databricks.com/elearning/INT-DRSE-v1-SP)
+- [Delta Lake Rapid Start with Spark SQL](https://academy.databricks.com/elearning/INT-DRSS-v1-SP)
+- [Deploying a Machine Learning Project with MLflow Projects](https://academy.databricks.com/elearning/INT-DMMS-v1-SP)
+- [Fundamentals of Delta Lake](https://academy.databricks.com/elearning/INT-DELF-v1-SP)
+- [Introduction to Natural Language Processing with Databricks](https://academy.databricks.com/elearning/INT-SNLPDB-v1-SP)
+- [Tracking Experiments with MLflow](https://academy.databricks.com/elearning/INT-MLET-v1-SP)
