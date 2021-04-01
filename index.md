@@ -16,3 +16,10 @@
 - [Fundamentals of Delta Lake](https://academy.databricks.com/elearning/INT-DELF-v1-SP)
 - [Introduction to Natural Language Processing with Databricks](https://academy.databricks.com/elearning/INT-SNLPDB-v1-SP)
 - [Tracking Experiments with MLflow](https://academy.databricks.com/elearning/INT-MLET-v1-SP)
+
+#### UCLA Extension
+
+- [Com Sci X 450.1 - Introduction to Data Science](https://www.uclaextension.edu/digital-technology/data-analytics-management/course/introduction-data-science-com-sci-x-4501)
+- [Com Sci X 450.2 - Exploratory Data Analysis and Visualization](https://www.uclaextension.edu/digital-technology/data-analytics-management/course/exploratory-data-analysis-and-visualization-com)
+- [Com Sci X 450.3 - Big Data Management](https://www.uclaextension.edu/digital-technology/data-analytics-management/course/big-data-management-com-sci-x-4503)
+- [Com Sci X 450.4 - Machine Learning](https://www.uclaextension.edu/digital-technology/data-analytics-management/course/machine-learning-com-sci-x-4504)
